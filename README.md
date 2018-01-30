@@ -1,4 +1,4 @@
-# Proyecto-Ejemplo
+# Proyecto de Ejemplo
 
 # Productos
 
