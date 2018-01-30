@@ -1,6 +1,6 @@
 # Proyecto-Ejemplo
 
-# Productos mi album
+# Productos
 
 * Albumes
 * Bastidores
