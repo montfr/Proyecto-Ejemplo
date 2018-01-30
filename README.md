@@ -1,8 +1,12 @@
 # Proyecto-Ejemplo
 
-##Productos mi album
+# Productos mi album
 
-*Bastidores
 * Albumes
-*Paquetes escolares
-*Cuadros
+* Bastidores
+* Mosaicos
+* Viñeta
+* Escolares
+* Deco Arte
+* Cristal Art
+* Canvas
