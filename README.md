@@ -2,7 +2,11 @@
 
 ##Productos mi album
 
-*Bastidores
 * Albumes
-*Paquetes escolares
-*Cuadros
+* Bastidores
+* Mosaicos
+* Viñetas
+* Escolares
+* Deco Arte
+* Cristal Art
+* Canvas
